@@ -17,7 +17,7 @@ title: Spare Time Development
 email: Isaac.bryce@outlook.com
 description: Spare Time Development is a Independant Art and Design studio based out of New Zealand. Displaying a range of my 2d and 3d digital explorations. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://isaacbryce.github.io/IsaacBryce/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: chaosincarnate
 github_username:  IsaacBryce
 

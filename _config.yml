@@ -23,7 +23,7 @@ github_username:  IsaacBryce
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minima
+theme: minima
 plugins:
   - jekyll-feed
 

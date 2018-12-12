@@ -5,4 +5,6 @@ permalink: /about/
 ---
 
 Spare Time Development is an art and design studio based out of the far north of New Zealand. Designed to display online artistic musings ranging across platforms and media.
+
+For a closer look at some of my works check out my artstation page at https://www.artstation.com/sparetimedev 
    

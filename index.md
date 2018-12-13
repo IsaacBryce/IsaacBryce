@@ -5,4 +5,4 @@
 layout: home
 ---
 
-derpderpderp
+This Is the landing page for Spare Time Development Art and Design Studios. This website is currently under erratic construction and may change at any time.(PLEAES NOTE: may break sometimes too)  

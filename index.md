@@ -5,7 +5,7 @@
 layout: home
 ---
 
-This Is the landing page for Spare Time Development Art and Design Studios.
+This Is the landing page for Spare Time Development Art and Design Studio.
 This website is currently under construction and may change at any time.
 
-(PLEAES NOTE: may break sometimes too)  
+(PLEASE NOTE: May break sometimes too.)  

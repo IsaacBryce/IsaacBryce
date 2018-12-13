@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Slowly etting there."
+title:  "Slowly getting there."
 date:   2018-08-01 10:58:54 +1200
 categories: jekyll transfer
 ---

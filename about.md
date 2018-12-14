@@ -8,7 +8,9 @@ Spare Time Development is an Art and Design studio based out of the far north of
 
 Started by creator Isaac Bryce while finishing his BAA with a Digital endorsement from Northtec Whangarei in 2017. Utilising a variety of software we create and develop illustrations, 2D and 3D Characters and Animations, 3D modeling and printing as well as Game/Web Development. 
 
-For a closer look at some of Isaac's artworks check out his [artstation page][as] at [https://www.artstation.com/sparetimedev][as] or to check out the last couple of pc web game releases check out his [itch.io][itch.io] page at [https://sparetimedev.itch.io/][itch.io]
+For a closer look at some of Isaac's artworks check out his [artstation page][as] at [https://www.artstation.com/sparetimedev][as] 
+
+To check out the last couple of pc web game releases check out his [itch.io][itch.io] page at [https://sparetimedev.itch.io/][itch.io]
 
 
 [itch.io]:https://sparetimedev.itch.io/

@@ -31,5 +31,6 @@ Existance 2.0 2017 - A Simple avoid the obsticals game where there is no winning
 [rsd]: https://sparetimedev.itch.io/rocket-spelunker-demo
 
 
+There are multiple other titles in progress as well as other projects going on in general so if you want to keep up to date with something follow me on social media somewhere.
 
-For a closer look at some of my learning works check out my [itch.io][itch.io] page at [https://sparetimedev.itch.io/][itch.io]
+

@@ -4,7 +4,7 @@ title: Games
 permalink: /games/
 ---
 
-These are some of the gaming projects I've participated in along the journey of teaching myself to code, using C# and Unity for the most part but I also have some experience with web development(HTML,Js,Css,Python) and mess around with Arduino's on occasion too.  
+These are some of the gaming projects I've participated in along the journey of teaching myself to code, using C# and Unity for the most part but I also have some experience with web development (HTML,Js,Css,Python) and mess around with Arduino's on occasion too.  
   
 There are multiple other titles in progress as well as other projects going on in general so if you want to keep up to date with something follow me on social media somewhere.
 

@@ -4,9 +4,8 @@ title: Games
 permalink: /games/
 ---
 
-Spare Time Development is an art and design studio based out of the far north of New Zealand. Designed to display online artistic musings ranging across platforms and media.Using free and open source software for creation whenever possible.
-
-For a closer look at some of my learning works check out my [itch.io][itch.io] page at [https://sparetimedev.itch.io/][itch.io]
+These are some of the gaming projects I've participated in along the journey of teaching myself to code, using C# and Unity for the most part but I also have some experience with web development(HTML,Js,Css,Python) and mess around with Arduino's on occasion too.  
+  
 
 [itch.io]: https://sparetimedev.itch.io/
 
@@ -16,7 +15,10 @@ This was my first dip into Game Development with Unity, It was a 3 person studen
 [gh]: https://get-home.itch.io/get-home
 
 
-Consume 2017 (WEBSITE DOWN) - This was a JavaScript "Snake clone" that I reskinned for a 3rd year art project. It was hosted online for a year and was available free to play on any device or browser via scanning a QR code that linked to the website, The gallery display had a framed 7 inch screen running off a Raspberry Pi with arcade buttons to move the player via a Python script.      
+Consume 2017 (WEBSITE DOWN) - This was a JavaScript "Snake clone" that I reskinned for a 3rd year art project. It was hosted online for a year and was available free to play on any device or browser via scanning a QR code posters and stickers that linked to the website, The gallery display had a framed 7 inch screen running off a Raspberry Pi browser with arcade buttons to move the player via a Python script.      
+
+
+Existance 2.0 2017 - A Simple avoid the obsticals game where there is no winning! Featuring a custom UTF-8 character!! Another gallery exhibit peice built out of an Arduino Mini with a single button and a small 16x2 LCD screen mounted inside a hard cover book.   
 
 
 [Tap n Smash][tns] 2018 - Its a break out clone and my first solo unity project and following a 2d Unity tutorial in aims to further my c# . this was mostly rushed through as a learning experience and should probably be re-polished. 
@@ -27,3 +29,7 @@ Consume 2017 (WEBSITE DOWN) - This was a JavaScript "Snake clone" that I reskinn
 [Rocket Spelunker Demo][rsd] 2018 - Explore some strewn together levels as a rocket powered pig!,Welcome to my 2nd solo demo complete with some of my own blender modeling and fan art. This is a re-skinned rocket control game following a 3d unity tutorial. 
 
 [rsd]: https://sparetimedev.itch.io/rocket-spelunker-demo
+
+
+
+For a closer look at some of my learning works check out my [itch.io][itch.io] page at [https://sparetimedev.itch.io/][itch.io]

@@ -16,7 +16,7 @@ There are multiple other titles in progress as well as other projects going on i
 Take Control of a drunk Buisness man on the way home from work, In the game, you needs to keep the character balanced because our character is drunk. Basically the whole game has only one task; this is to help the character get home safely.
 This was my first dip into Game Development with Unity, It was a 3 person student project with myself heading the programming and animation and the other two heading up marketing and character/story design.   
 
-<img src="/assets/images/gethomeg.gif">
+<img src="/assets/images/gethomeg.png">
 
 <h3>Consume - 2017 - (WEBSITE DOWN) -</h3> 
 

@@ -4,8 +4,7 @@
 
 layout: home
 ---
+<a href="https://sparetimedev.itch.io/rocket-spelunker-demo"><img src="/assets/images/bg_image.png"></a>
 
 This Is the landing page for Spare Time Development Art and Design Studio.
-This website is currently under construction and may change at any time.
-
-(PLEASE NOTE: May break sometimes too.)  
+This website is currently under construction and may change without notice.

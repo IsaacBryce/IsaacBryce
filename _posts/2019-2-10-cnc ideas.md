@@ -3,7 +3,7 @@ layout: post
 title:  "Cnc Ideas"
 date:   2019-2-10 10:58:54 +1200
 categories: Toys
-published: true
+
 ---
 
 I've made some neat stuff with a 2 watt laser kit off the web but The working space was tiny though so...

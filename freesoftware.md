@@ -1,9 +1,9 @@
 ---
 layout: page
-title:  Free software
+title:  Free Software
 permalink: /freesoftware/
-
 ---
+
 
 Blender -
 Krita -

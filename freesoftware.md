@@ -2,7 +2,7 @@
 layout: page
 title: F.O.S.S
 permalink: /freesoftware/
-
+published: false
 ---
 
 <h2>Free and Open Source Software</h2>

@@ -20,3 +20,4 @@ bin-release/
 # testing guide instructions
 
 _site/
+Gemfile.lock

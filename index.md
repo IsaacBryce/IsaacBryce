@@ -6,5 +6,4 @@ layout: home
 ---
 <a href="https://sparetimedev.itch.io/rocket-spelunker-demo"><img src="/assets/images/landing.png"></a>
 
-This Is the landing page for Spare Time Development Art and Design Studio.
-This website may change without notice.
+This is the landing page for Spare Time Development Art and Interactive Design Studio. Based out of the far north of New Zealand we are focused on creating and developing software, games and art to amuse and perplex.   

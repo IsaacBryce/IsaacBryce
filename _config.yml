@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Spare Time Development Studio
+title: Spare Time Development
 subtitle: Art and Interactive Design
 email: Isaac.bryce@outlook.com
 description: Spare Time Development is a Independant Art and Design studio based out of New Zealand. Displaying a range of 2d and 3d digital and analog explorations.

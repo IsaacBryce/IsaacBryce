@@ -2,7 +2,7 @@
 layout: page
 title: F.O.S.S.I.L
 permalink: /freesoftware/
-published: false
+published: True
 
 ---
 

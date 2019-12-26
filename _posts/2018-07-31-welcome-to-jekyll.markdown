@@ -28,4 +28,3 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 
  blah blah blah leaving automatic first post because meh
- 

@@ -3,6 +3,7 @@ layout: post
 title:  "Starting from scratch"
 date:   2018-08-01 10:58:54 +1200
 categories: jekyll transfer
+published: true
 ---
 
-slow migration from x10hosting.com and Wordpress to Jekyll and github has begun.
+A slow migration from a free hosting company to github is finally functional! In an effort to build and maintain a minimal cost website. When first getting a website up and running I had originally built up a wordpress site and hosted it with a hosting company under one of their free accounts but due to some restrictions with the domain name and being unable to get https without paying I've since moved to github-pages and started things fresh. The only thing that's costing anything at the moment is the Domain Name registration fee.

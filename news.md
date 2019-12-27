@@ -4,7 +4,7 @@ title: News
 permalink: /news/
 
 ---
-Blog news updates and stuff
+Blog news updates and such.
 <ul class="myposts">
 {% for post in site.posts %}
     <li><a href="{{ post.url }}">{{ post.title}}</a>
@@ -12,5 +12,3 @@ Blog news updates and stuff
     </li>
 {% endfor %}
 </ul>
-
-

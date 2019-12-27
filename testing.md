@@ -10,10 +10,10 @@ published: true
   Just trying things out.
 </p>
 
-<p align="center">
+<!--<p align="center">
 <canvas id="game" width="400" height="400"></canvas>
 <script src="../assets/scripts/snek.js" type="text/javascript"/></script>
-</p>
+</p>-->
 
 <script src="../assets/scripts/snake.js" type="text/javascript"/></script>
 

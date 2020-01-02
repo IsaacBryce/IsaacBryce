@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "tapnsmash"
+title:  "Tapnsmash"
 date:   2018-11-18 16:20:42 +1200
 categories: Games
 published: true

@@ -7,7 +7,7 @@ published: True
 ---
 
 <h2>Free and Open Source Software I Like</h2>
-<h4>That I use on both windows 10 and Linux mint.</h4>
+<h4>That I tend to use on both a windows 10 desktop and Linux mint laptop.</h4>
 
 <a href="https://blender.org ">[Blender]</a> - For all things 3d and some.
 <p></p>

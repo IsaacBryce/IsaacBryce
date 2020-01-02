@@ -7,7 +7,7 @@ published: true
 ---
 
 <p align="center">
-  Just trying things out.
+  Just a place to try things out.
 </p>
 
 <!--<p align="center">
@@ -16,7 +16,7 @@ published: true
 </p>-->
 
 <script src="../assets/scripts/snake.js" type="text/javascript"/></script>
-
+<!--<script src="../assets/scripts/snak.js" type="text/javascript"/></script>-->
 
 <!--<body onLoad="face();" align="center">
   <canvas id="canvas" width="600" height="400">Your browser does not support the canvas element.</canvas>

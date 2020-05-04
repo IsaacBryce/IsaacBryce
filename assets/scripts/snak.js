@@ -21,7 +21,7 @@ var snak = {
 
 	draw_state: function () {
 		if (snak._el_target === null) {
-			snak._el_target = document.createElement('div');
+			snak._el_target = document.createElement('div id="intro"');
 			snak._el_target.style.position = "absolute";
 			snak._el_target.style.height = snak.size+"px";
 			snak._el_target.style.width = snak.size+"px";

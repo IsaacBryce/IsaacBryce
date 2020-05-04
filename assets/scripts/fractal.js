@@ -58,8 +58,8 @@ $(document).ready(() => {
 	//let sy = 650;
 	let sy = canv.height /2;
 	//let height = 150;
-	let height = 1.15*init_height(canv.height, shrink_factor);
-	console.log(max_height(height, shrink_factor));
+	let height = 1.2*init_height(canv.height, shrink_factor);
+	//console.log(max_height(height, shrink_factor));
 	let draw = create_draw(context);
 	function tree(start, len, angle, delta, depth) {
 		//console.log(start, len, angle, delta, depth);
@@ -73,9 +73,9 @@ $(document).ready(() => {
 		}
 	}
 	///////////////////////////
-	let c = 50;
+	let c = 43;
 	let start_time = moment();
-	console.log(start_time);
+	//console.log(start_time);
 	function do_the_frame() {
 		context.clearRect(0, 0, canv.width, canv.height);
 		// Adjust over a period of 10 seconds
@@ -84,7 +84,7 @@ $(document).ready(() => {
 		let cmod = Math.sin(Math.PI*2*now);
 		//console.log(cmod);
 		//
-		console.log(moment(), (cmod*c));
+		//console.log(moment(), (cmod*c));
 		tree([sx, sy], height+(cmod*c), -strtangle, cmod, 9);
 		window.requestAnimationFrame(do_the_frame);
 	}

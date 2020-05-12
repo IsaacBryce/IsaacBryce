@@ -6,6 +6,8 @@ layout: home
 ---
 
 
-<a href="https://sparetimedev.co.nz/about/"><img src="/assets/images/pilferWater.png"></a>
 
-This is Spare Time Development! An Art and Interactive Design Studio based out of the far north of New Zealand.
+<div style="text-align:center;">
+    <a href="https://sparetimedev.co.nz/about/"><img src="/assets/images/pilferWater.png"></a>
+    Welcome to the home of Spare Time Development! An Art and Interactive Design Studio.
+ <div>

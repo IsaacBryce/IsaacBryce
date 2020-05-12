@@ -2,7 +2,8 @@
 layout: page
 title: Testing
 permalink: /testing/
-published: false
+published: true
+
 
 
 ---

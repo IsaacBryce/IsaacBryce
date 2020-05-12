@@ -8,4 +8,4 @@ layout: home
 
 <a href="https://sparetimedev.co.nz/about/"><img src="/assets/images/pilferWater.png"></a>
 
-This is the landing page for Spare Time Development Art and Interactive Design Studio. Based out of the far north of New Zealand and  focused on creating and developing software, games and art to amuse and perplex.   
+This is Spare Time Development! An Art and Interactive Design Studio based out of the far north of New Zealand.

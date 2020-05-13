@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Spare Time Development is an Art and Design Studio based out of Tautoro in the far north of New Zealand. This website is designed to display online artistic musings ranging across platforms and media. Created using free and open source software for creation whenever possible.
+Spare Time Development is an Art and Design Studio based out of Tautoro in the far north of New Zealand. This website is designed to display artistic musings ranging across platforms and media. Created using free and open source software for creation whenever possible.
 
-Started by creator Isaac Bryce while finishing his BAA with a Digital endorsement from NorthTec Whangarei in 2017. He utilises a variety of computer languages and software to create and develop illustrations, animations, 2D and 3D characters and enviroments,3D modeling and printing as well as Game/Web Development.
+Started by creator Isaac Bryce(me) while finishing my BAA with a Digital endorsement from NorthTec Whangarei in 2017. I utilise a variety of computer languages and software to create an array of digital and analog art from pencil sketches on paper to writing browser based games in c# using the Unity engine.
 
 For a closer look at some of Isaac's art check out the [artstation page][as] at [https://www.artstation.com/sparetimedev][as]
 

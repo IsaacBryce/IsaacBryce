@@ -2,20 +2,19 @@
 layout: page
 title: Testing
 permalink: /testing/
-published: true
+published: false
 
 
 
 ---
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script src="../assets/scripts/snake.js" type="text/javascript"/></script>
 <script src="../assets/scripts/fractal.js"></script>
 <script src="../assets/scripts/snak.js" type="text/javascript"/></script>
-
+<script src="../assets/scripts/bg.js"></script>
 <h1>
   Just a place to try things out.
 </h1>
-
+<button type="button" onclick="bg()">Set background image</button>
 
 <!--
 

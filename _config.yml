@@ -16,13 +16,13 @@
 title: Spare Time Development
 subtitle: Art and Interactive Design
 email: Isaac.bryce@outlook.com
-description: Spare Time Development is a Independant Art and Design studio based out of New Zealand. Displaying a range of 2d and 3d digital and analog explorations.
+description: Spare Time Development is a Independant Art and Design studio based out of Tautoro New Zealand. created to display a range of 2d and 3d digital and analog art explorations.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://sparetimedev.co.nz" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Spare_Time_Dev
 github_username:  IsaacBryce
 facebook_username: sparetimedev
-
+author: Isaac Bryce
 # Build settings
 markdown: kramdown
 theme: minima
